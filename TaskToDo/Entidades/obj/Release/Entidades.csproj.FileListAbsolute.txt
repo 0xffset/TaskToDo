@@ -1,0 +1,4 @@
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\bin\Release\Entidades.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\bin\Release\Entidades.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\obj\Release\Entidades.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\obj\Release\Entidades.pdb

@@ -1,0 +1,4 @@
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\bin\Debug\Entidades.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\obj\Debug\Entidades.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\Entidades\obj\Debug\Entidades.pdb

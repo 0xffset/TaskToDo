@@ -1,0 +1,9 @@
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaNegocio\obj\Debug\CapaNegocio.pdb

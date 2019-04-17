@@ -1,0 +1,7 @@
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\bin\Debug\Entidades.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\RolEYder\Desktop\Project(TaskToDo)\TaskToDo\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
